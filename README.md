@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/tnxuiyljwu5u7e9s/branch/main?svg=true)](https://ci.appveyor.com/project/vetka-g/aqaex2-2/branch/main)
